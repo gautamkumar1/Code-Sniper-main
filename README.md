@@ -1,6 +1,6 @@
 
 
-# Code Snipper 🚀
+# SyntaxSniper 🚀
 
 Developed a feature-rich code snippet sharing tool inspired by Ray.so, leveraging a modern tech stack and incorporating additional functionalities.
 
