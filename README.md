@@ -1,8 +1,8 @@
 
 
-# Code Snipper 🚀
+# SyntaxSniper 🚀
 
-Developed a feature-rich code snippet sharing tool inspired by Ray.so, leveraging a modern tech stack and incorporating additional functionalities.
+Developed a feature-rich code snippet sharing tool, leveraging a modern tech stack and incorporating additional functionalities.
 
 ![pro1](https://github.com/Hrithik0112/Code_Sniper/assets/122002784/61b5bb4c-bca5-47d5-a1ef-82e6670df2de)
 
