@@ -8,7 +8,7 @@ Developed a feature-rich code snippet sharing tool, leveraging a modern tech sta
 
 ## Features
 
-- **Fully Functional Clone:** Engineered a fully functional Ray.so clone using React, Tailwind CSS, Shadcn UI, Zustand, Highlight.js, React Simple Code Editor, HTML to Image, React Hot Toast, Resizable, and Vite technologies. ⚙️
+- **Fully Functional Clone:** Engineered a fully functional using React, Tailwind CSS, Shadcn UI, Zustand, Highlight.js, React Simple Code Editor, HTML to Image, React Hot Toast, Resizable, and Vite technologies. ⚙️
 
 - **Elegant Themes:** Implemented 10+ elegant themes, including both light and dark themes, providing users with a visually appealing and customizable experience. 🌈
 
